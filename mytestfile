@@ -1,0 +1,5 @@
+for fetching all branhces from remote
+ git fetch --prune
+ 
+for deleting local branhces
+git branch -d
